@@ -1,4 +1,7 @@
 ---
+banner: "https://onedesblog.com/wp-content/uploads/2021/07/landscape-minimal-mountains-art-wallpaper.jpg"
+---
+---
 banner: https://onedesblog.com/wp-content/uploads/2021/07/landscape-minimal-mountains-art-wallpaper.jpg
 ---
 ⠀
